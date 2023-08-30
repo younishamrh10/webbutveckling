@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(243, 9, 9);
+}
+
+p{
+    color:chartreuse;
+}
+
+h1{
+    text-align: center;
+}
+
+.altp{
+    text-align: right;
+}
+
+h2{
+    text-align: center;
+}
