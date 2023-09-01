@@ -7,13 +7,31 @@ p{
 }
 
 h1{
-    text-align: center;
-}
-
-.altp{
-    text-align: right;
+    font-family: Arial;
+    font-size: 22px;
 }
 
 h2{
     text-align: center;
+}
+
+.altp{
+    text-align: center;
+}
+.altp2{
+    text-align: center;
+    background-color:darkgreen;
+    color: rgb(255, 253, 253);
+}
+
+.altp3{
+    text-align: right;
+}
+
+a{
+    text-decoration: none;
+}
+
+.altp4{
+    border: 1px solid black;
 }
