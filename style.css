@@ -22,6 +22,7 @@ h2{
     text-align: center;
     background-color:darkgreen;
     color: rgb(255, 253, 253);
+    grid-area: miam; 
 }
 
 .altp3{
@@ -35,3 +36,4 @@ a{
 .altp4{
     border: 1px solid black;
 }
+
