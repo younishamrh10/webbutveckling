@@ -6,7 +6,7 @@ body{
     grid-template-rows: 1fr 1fr;
 }
 
-section:nth-child(){
+section:nth-child(1){
     background-color: red;
 }
 
@@ -20,4 +20,8 @@ section:nth-child(3){
 
 section:nth-child(4){
     background-color: yellow;
+}
+
+h1{
+    font-size: 5vw;
 }

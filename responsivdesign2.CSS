@@ -1,0 +1,14 @@
+body{
+    background-color: lightblue;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section:nth-child(2){
+    background-color: orange;
+    width: 100vh;
+    height: 100vh;
+    border-radius: 100%;
+}
