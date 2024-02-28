@@ -1,0 +1,33 @@
+table,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: 150px;
+    width: 800px;
+}
+
+.blue{
+    background-color: rgb(76, 117, 241);
+}
+
+.red{
+    background-color: rgb(207, 5, 5);
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.black{
+    background-color: black;
+}
+
+.green{
+    background-color: rgb(32, 237, 13);
+}
+
+caption{
+    caption-side: bottom;
+    font-size: 20px;
+    margin-top: 20px;
+    font-family: Arial;
+}
